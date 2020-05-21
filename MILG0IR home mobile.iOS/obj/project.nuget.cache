@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I96utd5sIs0JCAZ5z84uy9Ly/zeBBXXOHdDGFZVFi7EBLx2R/CHJUBpDlHEWm7kfdvJFlKQWCjoU3ESkLqwUSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robert\\GitHub\\MILG0IR\\Files\\MILG0IR home mobile\\MILG0IR home mobile.iOS\\MILG0IR home mobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\MILG0IR home mobile.deps.json
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\MILG0IR home mobile.dll
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\ref\MILG0IR home mobile.dll
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\MILG0IR home mobile.pdb
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.AssemblyInfo.cs
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.dll
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\ref\MILG0IR home mobile.dll
+C:\Users\Robert\source\repos\MILG0IR home mobile\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.pdb
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.csprojAssemblyReference.cache
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.dll
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\ref\MILG0IR home mobile.dll
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.pdb
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MG_connect.xaml.g.cs
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MG_login.xaml.g.cs
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MG_splash.xaml.g.cs
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.csproj.CoreCompileInputs.cache
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.AssemblyInfoInputs.cache
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\MILG0IR home mobile.AssemblyInfo.cs
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\MILG0IR home mobile.deps.json
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\MILG0IR home mobile.dll
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\ref\MILG0IR home mobile.dll
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\bin\Debug\netstandard2.0\MILG0IR home mobile.pdb
+C:\Users\Robert\GitHub\MILG0IR\Files\MILG0IR home mobile\MILG0IR home mobile\obj\Debug\netstandard2.0\XamlC.stamp
