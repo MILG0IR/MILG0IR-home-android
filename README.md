@@ -1,1 +1,1 @@
-# MILG0IR-home-android-apk
+# MILG0IR home mobile application
